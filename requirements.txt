@@ -1,6 +1,0 @@
-streamlit
-sympy
-numpy
-scipy
-matplotlib
-ffmpeg-python
